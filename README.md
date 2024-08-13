@@ -19,18 +19,22 @@ The Social Pulse API is a backend service for a social networking application. I
 - [Node.js](https://nodejs.org/) - Ensure Node.js is installed.
 - [MongoDB](https://www.mongodb.com/) - Ensure MongoDB is running locally.
 
+## Video Demonstration
+   [Link to video](./assets/users.mov)
+   [Link to video](./assets/users%20id.mov)
+   [Link to video](./assets/post.mov)
+   [Link to video](./assets/delete%20and%20put.mov)
+
+
 ### Installation
 
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/Robel11A/Social-pulse-API.git
 
-   ## Demo Video
+  
 
-   ![demo video](/users.mov)
-   ![Demo Video](/users%20id.mov)
-   ![Demo Video](/post.mov)
-   ![Demo Video](/delete%20and%20put.mov)
+   
    
    
 
