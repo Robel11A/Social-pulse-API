@@ -23,7 +23,7 @@ The Social Pulse API is a backend service for a social networking application. I
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/socialpulseapi.git
+   git clone https://github.com/Robel11A/Social-pulse-API.git
 
    ## Demo Video
 
