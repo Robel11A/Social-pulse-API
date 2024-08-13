@@ -14,10 +14,13 @@ The Social Pulse API is a backend service for a social networking application. I
 
 ## Getting Started
 
-### Prerequisites
+### Technologies Used
+- **Node.js**: A JavaScript runtime built on Chrome's V8 JavaScript engine.
+- **Express.js**: A web application framework for Node.js.
+- **MongoDB**: A NoSQL database used for storing and managing data.
+- **Mongoose**: An ODM (Object Data Modeling) library for MongoDB and Node.js.
+- **Insomnia**: A tool for testing APIs.
 
-- [Node.js](https://nodejs.org/) - Ensure Node.js is installed.
-- [MongoDB](https://www.mongodb.com/) - Ensure MongoDB is running locally.
 
 ## Video Demonstration
    [Link to video](./assets/users.mov)
@@ -26,11 +29,18 @@ The Social Pulse API is a backend service for a social networking application. I
    [Link to video](./assets/delete%20and%20put.mov)
 
 
-### Installation
+   ## Install Dependencies:
+   npm install 
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/Robel11A/Social-pulse-API.git
+   ## Start the application or server
+   npm start
+
+
+
+ ## Clone the Repository
+https://github.com/Robel11A/Social-pulse-API.git
+
+   
 
   
 
